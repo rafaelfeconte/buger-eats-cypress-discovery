@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Nilay Conte",
+        "cpf": "09078767456",
+        "email":"Nilay.conte@bol.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05001000",
+            "street": "Avenida Francisco Matarazzo",
+            "number": "1001",
+            "details": "shopping",
+            "district": "Água Branca",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Nilay Conte",
+        "cpf": "090787674aaa",
+        "email":"Nilay.conte@bol.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05001000",
+            "street": "Avenida Francisco Matarazzo",
+            "number": "1001",
+            "details": "shopping",
+            "district": "Água Branca",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Nilay Conte",
+        "cpf": "09078767456",
+        "email":"Nilay.conte.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05001000",
+            "street": "Avenida Francisco Matarazzo",
+            "number": "1001",
+            "details": "shopping",
+            "district": "Água Branca",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+        }
+}
